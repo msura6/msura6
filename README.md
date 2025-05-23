@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Sura M 👨‍💻
+# 👋 Hello World! I'm Sura Manvitha 👨‍💻
 
 Welcome to my digital workspace!  
 I'm a **Computer Science graduate** who loves solving real-world problems with **Machine Learning**, **Data Engineering**, and a sprinkle of **Web Development**. 🚀
