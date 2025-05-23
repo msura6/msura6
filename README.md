@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello World! I'm Sura M 👨‍💻
 
-<!--
-**msura6/msura6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital workspace!  
+I'm a **Computer Science graduate** who loves solving real-world problems with **Machine Learning**, **Data Engineering**, and a sprinkle of **Web Development**. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Toolbox
+- 🧠 Languages: `Python`, `C`
+- 🗃️ Databases: `MySQL`
+- 📦 Tools: `Git`, `VS Code`, `Jupyter`,`AWS`
+- 💡 Currently Exploring: `Transformers`, `Data Pipelines`, `MLOps`
+
+---
+
+### 📌 What I’m Working On
+- 🛡️ **Phishing Website Detection** using NLP + Neural Networks  
+- 🌱 **Carbon Footprint Estimator** to help you live greener  
+- 🧠 Learning more about **Cybersecurity** and how ML can fight the bad guys!
+
+---
+
+### 🎯 My Goals
+- 🌐 Build scalable AI apps for social good  
+- 📊 Become a Data Wizard (yes, like Gandalf, but with Python)  
+- 🧳 Land a dream role in **ML/Data Engineering**  
+
+---
+
+### 😄 Fun Facts
+- I debug my code with snacks 🍕  
+- I believe in clean code, good docs, and better coffee ☕  
+- Favorite quote: *"Code never lies, comments sometimes do."*
+
+---
+
+📫 **Let’s connect!**  
+[LinkedIn](https://www.linkedin.com/in/suramanvitha/) | [Email](suramanvithareddy@gmail.com)
+
