@@ -6,7 +6,7 @@ I'm a **Computer Science graduate** who loves solving real-world problems with *
 ---
 
 ### 🔧 Tech Toolbox
-- 🧠 Languages: `Python`, `C`
+- 🧠 Languages: `Python`, `C`, `HTML`, `CSS`, `JavaScript`
 - 🗃️ Databases: `MySQL`
 - 📦 Tools: `Git`, `VS Code`, `Jupyter`,`AWS`
 - 💡 Currently Exploring: `Transformers`, `Data Pipelines`, `MLOps`
